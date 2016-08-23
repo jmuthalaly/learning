@@ -1,2 +1,2 @@
-# learning
-Mini projects done while learning.
+# python
+Mini projects done in python.
